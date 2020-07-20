@@ -1,0 +1,14 @@
+html {
+    font-size: 62.5%; 
+    text-align: left;
+}
+
+.movie {
+    padding: 10px;
+}
+
+.create-movie {
+    display: grid;
+    margin-top: 50px;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
